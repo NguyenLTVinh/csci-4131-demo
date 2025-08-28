@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0f7fa;
+  padding: 2rem;
+}
+
+h1 {
+  color: #00796b;
+}
+
+h2 {
+  color: #004d40;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+ul {
+  background-color: #b2dfdb;
+  padding: 1rem;
+  border-radius: 8px;
+}
